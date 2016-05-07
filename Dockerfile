@@ -1,6 +1,6 @@
 FROM ubuntu:trusty
 
-MAINTAINER Ben Maggacis, ben.maggacis@qut.edu.au
+MAINTAINER Ben M, git@bmagg.com
 
 # Install default software for this container 
 RUN apt-get update && \
